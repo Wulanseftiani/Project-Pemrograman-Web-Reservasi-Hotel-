@@ -1,0 +1,95 @@
+body h1 {
+    font-size: 60px;
+	padding-left: 475px;
+	padding-top: 50px;
+	padding-bottom: 0px;
+    color: #517f1c;
+    position: relative;
+    top: 100px;
+}
+
+body img {
+    width: 75%;
+    padding-left: 150px;
+}
+
+body menu {
+    background-color: #517f1c;
+    height: 50px;
+}
+
+body menu ul {
+    list-style: none;
+    line-height: 50px;
+}
+
+body menu ul li {
+    float: left;
+    width: 10%;
+    text-align: right;
+    
+}
+
+body menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14pt;
+}
+
+body menu ul li a img {
+    float: right;
+    height: 50px;
+    width: 205px;
+}
+
+.tulisan_daftar {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20pt;
+    color: white;
+}
+
+.kotak_daftar {
+    width: 400px;
+    background-color: #517f1c;
+    margin: 80px auto;
+    padding: 30px 20px;
+}
+
+label {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+    color: white;
+}
+
+.form_daftar {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10pt;
+    margin-bottom: 20px;
+}
+
+.tombol_daftar {
+    background: #ff8908;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+}
+
+
+
