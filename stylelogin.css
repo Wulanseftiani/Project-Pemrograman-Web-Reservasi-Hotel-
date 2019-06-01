@@ -1,0 +1,61 @@
+body{
+background: url('background.png');
+background-size:cover;
+background-position: top left;background-repeat: repeat-x repeat-y;background-size:100% 100%
+}
+ 
+.kotak_login{
+	width: 350px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+	padding: 50px 50px;
+}
+ 
+.form_login{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.tombol_login{
+	background: #6699FF;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 152px;
+	text-decoration:none;
+}
+
+.tombol_daftar{
+	background: #6699FF;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 152px;
+	text-decoration:none;
+}
+.tombol_Register{
+	background: #6699FF;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 154px;
+	text-decoration:none;
+}
+
+.wrapper{
+    margin: 0 auto;
+    background: #fff;
+    border-top: 4px solid #333;
+	width: 350px;
+}
